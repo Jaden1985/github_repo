@@ -1,3 +1,6 @@
  Bella is a good girl too
 Merge local and remote branch
 this is my final version 
+Add new features in local part
+this part is for changing the new one
+
